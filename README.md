@@ -12,3 +12,4 @@ $ git clone git@github.com:EmSayle/mcr-buzz.git
 $ $npm install
 $ $npm run dev
 ```
+_created by EmSayle and GeorgiaWebinatic_
